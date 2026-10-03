@@ -1,0 +1,126 @@
+{
+  "slug": "zipclear",
+  "box": 140,
+  "question": "How does a zip work?",
+  "url": "https://glassbox.how/e/zipclear/",
+  "app": "https://glassbox.how/zipclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "175 years from a forgotten patent for sliding clasps to the billions of zips made every year.\n\n1851: A patent that went nowhere\n1893: The clasp locker\n1913: Hookless No. 2: the modern zip\n1917: The ‘Separable Fastener’ patent\n1923: Rubber boots give it a name\n1934: A small zip shop in Tokyo\n\nThe full story, with 29 moments, sources and charts: glassbox.how/e/zipclear/history (link in bio)\n\nThen play with how it works: glassbox.how/zipclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #zip #zipper #fastener #slider #wedge #simplemachines #history",
+      "youtube": {
+        "title": "The history of the zip in 45 seconds #shorts",
+        "description": "175 years from a forgotten patent for sliding clasps to the billions of zips made every year.\n\n1851 · A patent that went nowhere (Elias Howe Jr.)\n1893 · The clasp locker (Whitcomb L. Judson)\n1913 · Hookless No. 2: the modern zip (Gideon Sundback)\n1917 · The ‘Separable Fastener’ patent (Gideon Sundback)\n1923 · Rubber boots give it a name (B.F. Goodrich Company and Bertram G. Work)\n1934 · A small zip shop in Tokyo (Tadao Yoshida)\n\n▶ Full history: https://glassbox.how/e/zipclear/history/\n▶ Play with it: https://glassbox.how/e/zipclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a zip work?\n\nTwo rows of tiny teeth, each with a bump on top and a hollow underneath, and one slider with a wedge inside. See in slow motion how a zip locks tooth by tooth, why you cannot pull it apart sideways, and why a worn slider makes it split.\n\n→ A zip is two rows of teeth, half a step out of line, and one slider.\n→ Each tooth has a bump on top and a hollow underneath, stacked like cups.\n→ Pull sideways and the tooth has no room to climb over the bump. Locked.\n→ Inside the slider, each tape bends, and the bend fans its teeth apart.\n→ Each head tips into the open gap across the way, one tooth at a time.\n\nPlay with it yourself. It's free and open source: glassbox.how/zipclear (link in bio)\n\nBox No. 140 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #zip #zipper #fastener #slider #wedge #simplemachines #ykk #threejs",
+    "carousel": "Swipe through: How does a zip work?\n\nTwo rows of tiny teeth, each with a bump on top and a hollow underneath, and one slider with a wedge inside. See in slow motion how a zip locks tooth by tooth, why you cannot pull it apart sideways, and why a worn slider makes it split.\n\nSave this for later, then play with the interactive version at glassbox.how/zipclear (link in bio).\n\nBox No. 140 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #zip #zipper #fastener #slider #wedge #simplemachines",
+    "youtube": {
+      "title": "How does a zip work? #shorts",
+      "description": "Two rows of tiny teeth, each with a bump on top and a hollow underneath, and one slider with a wedge inside. See in slow motion how a zip locks tooth by tooth, why you cannot pull it apart sideways, and why a worn slider makes it split.\n\n▶ Play with it: https://glassbox.how/e/zipclear/\n⌘ Source code (MIT): https://github.com/bdeeps/zipclear\n\nBox No. 140 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a zip work? (interactive explainer)",
+      "description": "Two rows of tiny teeth, each with a bump on top and a hollow underneath, and one slider with a wedge inside. See in slow motion how a zip locks tooth by tooth, why you cannot pull it apart sideways, and why a worn slider makes it split.\n\n▶ Play with the interactive version: https://glassbox.how/e/zipclear/\n⌘ Source code (MIT): https://github.com/bdeeps/zipclear\n\nIn this video:\n• Two tapes, two rows of teeth, one slider. A zip is two cloth tapes, each with a row of small teeth clamped along a corded edge.\n• A bump on top, a hollow underneath. Each tooth head has a small bump on top and a matching hollow below.\n• The slider bends the tape. Inside the slider is a Y-shaped channel.\n• A wedge, working on one tooth at a time. Going down, the diamond in the fork of the Y is a wedge driven between the rows.\n• Why a zip splits behind the slider. A slider is cast from soft zinc alloy.\n• Metal, moulded plastic and coil. Metal teeth are stamped and clamped on.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a zip work?\n\nTwo rows of tiny teeth, each with a bump on top and a hollow underneath, and one slider with a wedge inside.\n\nPlay with it: https://glassbox.how/e/zipclear/",
+    "linkedin": "How does a zip work?\n\nTwo rows of tiny teeth, each with a bump on top and a hollow underneath, and one slider with a wedge inside. See in slow motion how a zip locks tooth by tooth, why you cannot pull it apart sideways, and why a worn slider makes it split.\n\n1. Two tapes, two rows of teeth, one slider\n2. A bump on top, a hollow underneath\n3. The slider bends the tape\n4. A wedge, working on one tooth at a time\n5. Why a zip splits behind the slider\n6. Metal, moulded plastic and coil\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 140 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/zipclear/\nCode: https://github.com/bdeeps/zipclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-03T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-03T10:12:08.237Z"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "zipclear",
+  "box": 140,
+  "date": "2026-10-07",
+  "title": "ZipClear",
+  "question": "How does a zip work?",
+  "hook": "Two rows of tiny teeth, each with a bump on top and a hollow underneath, and one slider with a wedge inside. See in slow motion how a zip locks tooth by tooth, why you cannot pull it apart sideways, and why a worn slider makes it split.",
+  "thumbText": "HOW A ZIP WORKS",
+  "field": "machines",
+  "minutes": 12,
+  "tags": [
+    "zip",
+    "zipper",
+    "fastener",
+    "slider",
+    "wedge",
+    "simple machines",
+    "YKK",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Two tapes, two rows of teeth, one slider",
+      "text": "A zip is two cloth tapes, each with a row of small teeth clamped along a corded edge. The rows are offset by half a pitch, so every tooth faces a gap. A slider rides on both rows, and stops at the ends keep it on."
+    },
+    {
+      "title": "A bump on top, a hollow underneath",
+      "text": "Each tooth head has a small bump on top and a matching hollow below. In a closed zip the heads are stacked like cups. To slide out sideways a tooth would have to climb over one bump and let go of another, and it has only a few hundredths of a millimetre of play."
+    },
+    {
+      "title": "The slider bends the tape",
+      "text": "Inside the slider is a Y-shaped channel. It bends each tape with the teeth on the outside of the curve, so the heads fan apart for a moment. As the rows converge, each head tips into the open gap across the way, one tooth at a time. Then the channel runs straight and the gaps close."
+    },
+    {
+      "title": "A wedge, working on one tooth at a time",
+      "text": "Going down, the diamond in the fork of the Y is a wedge driven between the rows. A pull along the zip becomes a push sideways: pull ÷ (2 × tan(φ + λ)). The closed chain can hold hundreds of newtons sideways, but the slider needs only a few, because it frees a single tooth at a time."
+    },
+    {
+      "title": "Why a zip splits behind the slider",
+      "text": "A slider is cast from soft zinc alloy. When its channel spreads by a few tenths of a millimetre, it no longer presses each bump fully into its hollow, and a tug rides the teeth apart. Squeezing the slider gently with pliers closes the channel again."
+    },
+    {
+      "title": "Metal, moulded plastic and coil",
+      "text": "Metal teeth are stamped and clamped on. Plastic teeth are moulded on to the tape. A coil zip is one long nylon spiral whose loops act as teeth, and it is the commonest of all. The size number, such as #5, is roughly the width of the closed chain in millimetres."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Tooth (element)",
+      "def": "One of the small shaped pieces along the edge of a zip tape. Two rows of them lock together."
+    },
+    {
+      "term": "Pitch",
+      "def": "The distance from one tooth to the next on the same tape. The two rows are offset by half a pitch."
+    },
+    {
+      "term": "Slider",
+      "def": "The moving part of a zip. Its Y-shaped channel meshes the teeth going one way and parts them going the other."
+    },
+    {
+      "term": "Diamond",
+      "def": "The wedge inside the top of the slider that drives between the two rows to open the zip."
+    },
+    {
+      "term": "Play",
+      "def": "Spare room for a part to move. Locked zip teeth have almost none, which is why they cannot climb over each other."
+    },
+    {
+      "term": "Wedge",
+      "def": "A simple machine: a slope that turns a push in one direction into a push at right angles to it."
+    },
+    {
+      "term": "Crosswise strength",
+      "def": "The sideways pull a closed zip can take before it fails, tested on 25 mm of chain."
+    },
+    {
+      "term": "Coil zip",
+      "def": "A zip whose teeth are the loops of one long plastic spiral sewn to the tape."
+    },
+    {
+      "term": "Auto-lock slider",
+      "def": "A slider with a sprung pin that drops between two teeth when you let go of the pull tab, so the zip stays put."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "zipclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

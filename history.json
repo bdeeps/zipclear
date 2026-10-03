@@ -1,0 +1,891 @@
+{
+  "title": "The history of the zip",
+  "tagline": "175 years from a forgotten patent for sliding clasps to the billions of zips made every year.",
+  "intro": "Buttons, hooks and laces held clothes shut for centuries, and they were slow. In 1851 an American inventor patented a row of sliding clasps and then forgot about it. It took a Chicago salesman, a Swedish-born engineer and twenty years of jammed, popping fasteners to get to the zip we know: two rows of tiny teeth and a slider that wedges them together. Rubber boots gave it a name, fashion made it famous, and factories in Japan, Europe, China and India now make zips (zippers, in American English) by the billion.",
+  "eras": [
+    {
+      "id": "ideas",
+      "name": "Hooks, clasps and false starts",
+      "from": 1851,
+      "to": 1912,
+      "color": "#c49bff",
+      "summary": "Inventors try to close a row of hooks with one pull. The fasteners jam, rust and pop open, and almost nobody buys them."
+    },
+    {
+      "id": "hookless",
+      "name": "The hookless fastener",
+      "from": 1906,
+      "to": 1923,
+      "color": "#ffb547",
+      "summary": "Gideon Sundback throws away the hooks, invents interlocking scoop teeth and builds a machine to make them. War orders keep the little company alive."
+    },
+    {
+      "id": "name",
+      "name": "A name and a fashion",
+      "from": 1923,
+      "to": 1945,
+      "color": "#ff7a59",
+      "summary": "Rubber boots give the zip its name. It spreads to Europe, Canada and Japan, then moves from boots and pouches to jeans, couture dresses and trouser flies."
+    },
+    {
+      "id": "plastic",
+      "name": "Plastic, coils and space",
+      "from": 1940,
+      "to": 1975,
+      "color": "#5ce1a9",
+      "summary": "Nylon coils and plastic teeth join brass. Zips learn to hide in a seam and to hold air, and they meet a rival made of hooks and loops."
+    },
+    {
+      "id": "global",
+      "name": "A world of zips",
+      "from": 1974,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "YKK builds factories around the world, Chinese towns turn out zips by the kilometre, and a part that costs pennies becomes a business worth billions."
+    }
+  ],
+  "events": [
+    {
+      "year": 1851,
+      "date": "25 November 1851",
+      "era": "ideas",
+      "art": "scroll",
+      "key": true,
+      "title": "A patent that went nowhere",
+      "who": "Elias Howe Jr.",
+      "where": "Massachusetts, USA",
+      "country": "United States",
+      "text": "Elias Howe, famous for the sewing machine, won US patent 8,540 for an ‘Improvement in Fastenings for Garments’. A row of clasps slid along two ribs and was pulled shut by a cord. Histories often call it an ‘automatic, continuous clothing closure’, but it worked more like a drawstring than a zip, and Howe never put it on sale.",
+      "why": "It is the first known patent for closing clothes with one sliding pull, 40 years before anyone tried again.",
+      "sources": [
+        1,
+        0,
+        5
+      ]
+    },
+    {
+      "year": 1893,
+      "date": "29 August 1893",
+      "era": "ideas",
+      "art": "wrench",
+      "key": true,
+      "title": "The clasp locker",
+      "who": "Whitcomb L. Judson",
+      "where": "Chicago, USA",
+      "country": "United States",
+      "text": "Judson, a Chicago inventor, was granted two US patents on the same day: 504,038 (filed first, in November 1891) and 504,037. They describe rows of hooks and eyes on a shoe, and a sliding ‘guide’ that locks or unlocks them all in one movement. He showed it at the 1893 World's Columbian Exposition in Chicago, where the public largely ignored it.",
+      "why": "It introduced the slider: one moving part that closes a whole row of fasteners.",
+      "box": "slider",
+      "sources": [
+        3,
+        2,
+        4
+      ]
+    },
+    {
+      "year": 1905,
+      "date": "1893–1905",
+      "era": "ideas",
+      "art": "building",
+      "title": "A company with a fastener that pops open",
+      "who": "Whitcomb Judson, Lewis Walker and Harry Earle",
+      "where": "Chicago, then Ohio, Pennsylvania and Hoboken, New Jersey, USA",
+      "country": "United States",
+      "text": "Judson, the lawyer Colonel Lewis Walker and Harry Earle set up the Universal Fastener Company to make the clasp locker; sources give 1893 or 1894. It moved from town to town and was renamed the Automatic Hook and Eye Company. Its 1905 ‘C-curity’ fastener still had a habit of springing open.",
+      "why": "The business barely survived, but Walker's stubborn backing kept the idea alive long enough to be fixed.",
+      "box": "faults",
+      "sources": [
+        2,
+        10,
+        5
+      ]
+    },
+    {
+      "year": 1906,
+      "date": "1906",
+      "era": "hookless",
+      "art": "person",
+      "title": "A Swedish engineer joins",
+      "who": "Gideon Sundback",
+      "where": "Hoboken, New Jersey, USA",
+      "country": "United States",
+      "text": "Gideon Sundback was born in Sweden in 1880, studied engineering in Bingen, Germany, and emigrated to the United States in 1905. In 1906 the fastener company hired him. His first fastener patent, filed in 1908, still used hooks and eyes. In 1909 he married Elvira Aronson, whose Swedish-born father was a mechanic and inventor.",
+      "why": "The zip finally had a trained engineer who would work on nothing else for years.",
+      "sources": [
+        6,
+        0,
+        8,
+        9
+      ]
+    },
+    {
+      "year": 1913,
+      "date": "1913",
+      "era": "hookless",
+      "art": "chain",
+      "key": true,
+      "title": "Hookless No. 2: the modern zip",
+      "who": "Gideon Sundback",
+      "where": "Hoboken, New Jersey, and Meadville, Pennsylvania, USA",
+      "country": "United States",
+      "text": "Sundback got rid of hooks and eyes altogether. His ‘Hookless No. 2’ used two rows of identical little cups, or scoops: the bump on one tooth nests in the hollow of the next. He packed in ten or eleven teeth per inch, where the old fasteners had about four, and a slider pressed them together. That year the firm became the Hookless Fastener Company and moved to Meadville.",
+      "why": "Every metal zip made since is a version of this design.",
+      "box": "teeth",
+      "sources": [
+        0,
+        10,
+        5
+      ]
+    },
+    {
+      "year": 1914,
+      "date": "c. 1913–1914",
+      "era": "hookless",
+      "art": "gear",
+      "title": "A machine that makes the chain",
+      "who": "Gideon Sundback",
+      "where": "Meadville, Pennsylvania, USA",
+      "country": "United States",
+      "text": "Sundback also built the machine to make his fastener. The ‘S-L’ machine, usually called the scrapless machine, took a Y-shaped wire, sliced off scoops, punched the dimple and bump into each one and clamped it onto cloth tape. In its first year it is said to have made a few hundred feet of zip chain a day.",
+      "why": "A zip is only useful if you can make thousands of identical teeth cheaply, and now you could.",
+      "box": "teeth",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1917,
+      "date": "20 March 1917",
+      "era": "hookless",
+      "art": "quill",
+      "key": true,
+      "title": "The ‘Separable Fastener’ patent",
+      "who": "Gideon Sundback",
+      "where": "Meadville, Pennsylvania, USA",
+      "country": "United States",
+      "text": "Sundback filed his patent on 27 August 1914, and US patent 1,219,881 for a ‘Separable Fastener’ was issued on 20 March 1917. It describes locking members shaped like long cups, so the outside of one nests in the recess of the next, with a slider that locks them one way and frees them the other.",
+      "why": "This is the patent that protected the modern zip and that the company licensed around the world.",
+      "box": "slider",
+      "sources": [
+        7,
+        6,
+        0
+      ]
+    },
+    {
+      "year": 1918,
+      "date": "1917–1918",
+      "era": "hookless",
+      "art": "boat",
+      "title": "Sailors' money belts and flying suits",
+      "who": "Robert J. Ewig and the US Navy",
+      "where": "USA",
+      "country": "United States",
+      "text": "In 1917 a tailor, Robert Ewig, put hookless fasteners on money belts. Sailors loved them, because their uniforms had no pockets, and almost all of the 24,000 fasteners sold that year went into the belts. In 1918 the Navy ordered fasteners for 10,000 flying suits.",
+      "why": "War gave the zip its first real customers and proved it could take rough use.",
+      "sources": [
+        9,
+        10
+      ]
+    },
+    {
+      "year": 1918,
+      "date": "1918 (by most accounts)",
+      "era": "hookless",
+      "art": "studio",
+      "title": "The ‘Hermès fastener’ in France",
+      "who": "Émile-Maurice Hermès",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Émile-Maurice Hermès saw the fastener in North America during the First World War and won exclusive rights to use it on leather goods and clothing in France. By most accounts Hermès made a zipped leather golf jacket for Edward, Prince of Wales, in 1918. For a while the French called the zip the fermeture Hermès.",
+      "why": "It was an early hint that the zip could be a luxury detail, not just a gadget for boots.",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1919,
+      "date": "1918–1920",
+      "era": "hookless",
+      "art": "bolt",
+      "title": "Britain's Lightning fastener",
+      "who": "Kynoch Ltd",
+      "where": "Witton, Birmingham, England",
+      "country": "United Kingdom",
+      "text": "Kynoch, a Birmingham metal and ammunition firm, began making the fastener in Britain around 1918 to 1919, first under the name Ready Fastener. In March 1920 it took the name Lightning. A giant working model was shown at the British Empire Exhibition at Wembley in 1924, and Kynoch became part of ICI in 1926.",
+      "why": "Lightning became Britain's best-known zip, which is one reason the British say ‘zip fastener’ and not ‘zipper’.",
+      "sources": [
+        13,
+        12,
+        14
+      ]
+    },
+    {
+      "year": 1923,
+      "date": "1923",
+      "era": "name",
+      "art": "word",
+      "key": true,
+      "title": "Rubber boots give it a name",
+      "who": "B.F. Goodrich Company and Bertram G. Work",
+      "where": "Akron, Ohio, USA",
+      "country": "United States",
+      "text": "B.F. Goodrich put the hookless fastener on rubber galoshes and called them Zipper boots, after the zip sound of closing them. The name is usually credited to the company's president, Bertram G. Work. Goodrich meant ‘Zipper’ for the boots, but people used it for the fastener, and by the early 1930s tens of millions of fasteners a year were being made.",
+      "why": "The fastener had a catchy name at last, and its first mass market.",
+      "sources": [
+        0,
+        5,
+        16
+      ]
+    },
+    {
+      "year": 1923,
+      "date": "1923–1927",
+      "era": "name",
+      "art": "mountain",
+      "title": "riri: ribs and grooves",
+      "who": "Martin Othmar Winterhalter",
+      "where": "Halle and Wuppertal, Germany; later Mendrisio, Switzerland",
+      "country": "Switzerland",
+      "text": "In 1923 the Swiss businessman Martin Winterhalter bought the European rights to Sundback's patent for 100,000 Swiss francs. He changed the teeth to a rib on one side and a groove on the other: Rippe and Rille in German, which gave the brand name riri. His factory opened in Halle in 1924 and moved to Wuppertal in 1927; by the end of 1925 about 1,000 workers made 10,000 metres a day. The firm later moved to Mendrisio in Switzerland, in 1936 by most accounts.",
+      "why": "It started zip making on the European mainland and showed there was more than one way to shape a tooth.",
+      "box": "teeth",
+      "sources": [
+        17,
+        0,
+        18
+      ]
+    },
+    {
+      "year": 1925,
+      "date": "1925 (by most accounts)",
+      "era": "name",
+      "art": "share",
+      "title": "Lightning strikes Canada",
+      "who": "Gideon Sundback",
+      "where": "St. Catharines, Ontario, Canada",
+      "country": "Canada",
+      "text": "Sundback kept the rights to his invention outside the United States. He used them to set up the Lightning Fastener Company in St. Catharines, Ontario, and was its president until he died in 1954. That is why Canadians often claim the zip as partly theirs.",
+      "why": "The inventor himself carried the zip abroad, and licences soon reached Britain and Europe too.",
+      "sources": [
+        0,
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1926,
+      "date": "1926",
+      "era": "name",
+      "art": "horse",
+      "title": "Jeans get a zip fly",
+      "who": "H.D. Lee Company",
+      "where": "Kansas, USA",
+      "country": "United States",
+      "text": "Lee says that in 1926 it added a zip to its heavy denim Cowboy Pants and called them the 101Z, the first jeans with a zip fly. Levi's stayed with buttons for much longer. It brought out the zipped 501Z only in 1954, to win over shoppers on the US East Coast.",
+      "why": "Workwear tried the zip fly years before tailors trusted it.",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1934,
+      "date": "January 1934",
+      "era": "name",
+      "art": "hammer",
+      "key": true,
+      "title": "A small zip shop in Tokyo",
+      "who": "Tadao Yoshida",
+      "where": "Higashi Nihonbashi, Tokyo, Japan",
+      "country": "Japan",
+      "text": "Tadao Yoshida, aged 25, started San-S Shokai (also written San-es) in Tokyo to finish and sell zips. Many of the fasteners he bought in were faulty, so he began making his own by hand. The firm became Yoshida Kogyo in 1938 and registered the trademark YKK in January 1946.",
+      "why": "This little shop grew into the biggest zip maker in the world.",
+      "sources": [
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1935",
+      "era": "name",
+      "art": "colorwheel",
+      "title": "Zips on show in Paris",
+      "who": "Elsa Schiaparelli",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "The Italian-born designer Elsa Schiaparelli put zips where everyone could see them. In her 1935 designs she used chunky coloured plastic zips as decoration, not just as hidden closings. A 1938 Schiaparelli evening dress in the V&A in London fastens with a bold black plastic Lightning zip made by ICI.",
+      "why": "High fashion turned the zip from something to hide into something to show off.",
+      "sources": [
+        5,
+        26,
+        12
+      ]
+    },
+    {
+      "year": 1937,
+      "date": "1937",
+      "era": "name",
+      "art": "trophy",
+      "key": true,
+      "title": "The Battle of the Fly",
+      "who": "Esquire magazine, tailors and the Hookless Fastener Company",
+      "where": "USA, France and Britain",
+      "country": "United States",
+      "text": "Tailors had distrusted zips in men's trousers. In the mid 1930s the Prince of Wales was reported to wear one, French designers praised it, and in 1937 Esquire magazine called the zip fly the newest tailoring idea for men, one that ruled out ‘unintentional and embarrassing disarray’. The same year the Hookless Fastener Company renamed itself Talon.",
+      "why": "The zip beat the button for the most important fastening in menswear.",
+      "sources": [
+        0,
+        16,
+        12,
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1940,
+      "date": "1940 to the 1950s",
+      "era": "plastic",
+      "art": "coil",
+      "key": true,
+      "title": "Teeth made from a plastic coil",
+      "who": "Alden W. Hanson; Opti-Werk, J. R. Ruhrmann and Prym",
+      "where": "USA and West Germany",
+      "country": "Germany",
+      "text": "The coil zip was first invented in 1940: Alden Hanson devised a way to sew a plastic coil onto the tape, so each loop of the spiral acts as a tooth. After the war, with metal scarce and German zip factories destroyed, Opti-Werk and Prym in West Germany developed plastic zips and won many patents. Coil zips only became common in the 1960s.",
+      "why": "Coil zips are light, bendy and cheap, and they now make up the bulk of the zips sold.",
+      "box": "kinds",
+      "sources": [
+        27,
+        5,
+        0
+      ]
+    },
+    {
+      "year": 1945,
+      "date": "2 October 1945",
+      "era": "plastic",
+      "art": "waterdrop",
+      "title": "A zip that holds air and water",
+      "who": "Carroll P. Krupp, B.F. Goodrich",
+      "where": "Akron, Ohio, USA",
+      "country": "United States",
+      "text": "Ordinary zips leak. In 1943 B.F. Goodrich filed a patent for a ‘sealing closure’ with overlapping rubber lips, granted in 1945, meant for things like inflatable suits. Sealing zips went on to close high-altitude pressure suits, and later diving dry suits. Many accounts credit NASA with the first airtight zip, but the Goodrich patent is older than NASA.",
+      "why": "A zip that seals let people zip themselves into suits for places with no air.",
+      "box": "kinds",
+      "sources": [
+        28,
+        30,
+        31
+      ]
+    },
+    {
+      "year": 1950,
+      "date": "1945–1955",
+      "era": "plastic",
+      "art": "piston",
+      "title": "YKK rebuilds with machines",
+      "who": "Tadao Yoshida",
+      "where": "Uozu and Kurobe, Toyama, Japan",
+      "country": "Japan",
+      "text": "Bombing raids on Tokyo in 1945 burned down Yoshida's factory, and he started again in Uozu, in his home prefecture of Toyama. In 1950 he borrowed heavily to buy automatic chain machines from the United States, replacing hand work. A big new plant opened at nearby Kurobe in May 1955.",
+      "why": "Machine-made chain gave YKK the quality and price to take on the world.",
+      "sources": [
+        25,
+        23
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "1955",
+      "era": "plastic",
+      "art": "leaf",
+      "title": "A rival with no teeth: Velcro",
+      "who": "George de Mestral",
+      "where": "Switzerland",
+      "country": "Switzerland",
+      "text": "After a hunting trip in 1941, the Swiss engineer George de Mestral studied the burrs stuck to his clothes and saw tiny hooks. He applied for a Swiss patent on a hook-and-loop fastener in 1951, and it was granted in 1955. In 1958 an American columnist called it the ‘zipperless zipper’.",
+      "why": "Hook-and-loop took over some jobs, but it never replaced the zip's strong, smooth seam.",
+      "sources": [
+        32
+      ]
+    },
+    {
+      "year": 1958,
+      "date": "1958",
+      "era": "plastic",
+      "art": "eye",
+      "title": "The zip that hides",
+      "who": "YKK",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "In an invisible, or concealed, zip the teeth sit behind the tape, so a closed zip looks like a plain seam with only a small pull showing. YKK introduced its Conceal brand of hidden zip in 1958.",
+      "why": "Dresses and skirts could close smoothly with no fastener in sight.",
+      "box": "kinds",
+      "sources": [
+        23,
+        0
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "1960",
+      "era": "plastic",
+      "art": "spring2",
+      "title": "Talon's nylon Zephyr",
+      "who": "Talon, Inc.",
+      "where": "Meadville, Pennsylvania, USA",
+      "country": "United States",
+      "text": "Talon launched the Zephyr, a nylon zip half as wide as its smallest metal one. By 1962 it made up a third of Talon's sales of 500 million zips a year. In the 1960s about seven out of every ten zips in America were Talons.",
+      "why": "It marked the high point of the company that invented the zip, just before Japanese rivals arrived.",
+      "box": "kinds",
+      "sources": [
+        10,
+        39
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "1951–1968",
+      "era": "plastic",
+      "art": "molecule",
+      "title": "The press-shut plastic zip",
+      "who": "Borge Madsen, Steven Ausnit and Dow Chemical",
+      "where": "Denmark and USA",
+      "country": "United States",
+      "text": "The Danish inventor Borge Madsen designed a plastic zip with no teeth: a ridge that snaps into a groove. In 1951 the Ausnit family's company Flexigrip bought his patents, and its later firm Minigrip made press-to-close bags. Dow Chemical test-marketed them as Ziploc bags in 1968.",
+      "why": "The zip idea jumped from clothes to kitchens.",
+      "sources": [
+        33
+      ]
+    },
+    {
+      "year": 1969,
+      "date": "July 1969",
+      "era": "plastic",
+      "art": "rocket",
+      "title": "Zipped up for the Moon",
+      "who": "Apollo astronauts",
+      "where": "The Moon",
+      "country": "United States",
+      "text": "The Apollo A7L spacesuit closed with a pair of zips that ran from the neck ring down the back and around the crotch. The inner zip had rubber teeth and made the airtight seal. The outer one was an ordinary metal zip that took the strain.",
+      "why": "Two zips, one for sealing and one for strength, helped keep astronauts alive in a vacuum.",
+      "box": "kinds",
+      "sources": [
+        29,
+        30
+      ]
+    },
+    {
+      "year": 1974,
+      "date": "1959–1974",
+      "era": "global",
+      "art": "plane",
+      "key": true,
+      "title": "YKK goes everywhere",
+      "who": "YKK",
+      "where": "New Zealand, USA and beyond",
+      "country": "Japan",
+      "text": "YKK set up its first overseas operation in New Zealand in 1959 and an office in New York in 1960. In 1974 it began making zips at its own plant in Macon, Georgia. A 2003 Forbes report said that Talon and Germany's Optilon had led the market in the 1960s, but that YKK was the giant by the 1980s, with 45 percent of the world market.",
+      "why": "Building factories close to its customers made YKK the name on zips all over the world.",
+      "sources": [
+        24,
+        23,
+        0
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "September 1995",
+      "era": "global",
+      "art": "earth",
+      "title": "YKK India",
+      "who": "YKK India Private Ltd",
+      "where": "Bawal, Rewari district, Haryana, India",
+      "country": "India",
+      "text": "YKK India was incorporated in September 1995 as a wholly owned arm of the Japanese company. Its factory at Bawal in Haryana started production in March 1997, making polyester coil, moulded plastic and metal zips, and later invisible ones. Capacity for most items was doubled in 2005, and in 2026 YKK announced a third Indian factory.",
+      "why": "As India's clothing and luggage industries grew, zip making moved in beside them.",
+      "sources": [
+        34,
+        35
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "1980–2005",
+      "era": "global",
+      "art": "chain",
+      "key": true,
+      "title": "China's zip towns",
+      "who": "The workshops of Qiaotou; SBS",
+      "where": "Qiaotou, Zhejiang, and Jinjiang, Fujian, China",
+      "country": "China",
+      "text": "Qiaotou, a farming town in Zhejiang, got its first button workshop in 1980. By 2005 reporters counted about 700 family factories there, making 15 billion buttons and 200 million metres of zip a year. China was said to hold 80 percent of the world zip market at the time. SBS, founded in Jinjiang in 1984, grew into China's biggest zip maker.",
+      "why": "Most of the world's everyday zips now come from China, counted by number.",
+      "sources": [
+        36,
+        37,
+        0,
+        40
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "2012–2024",
+      "era": "global",
+      "art": "scales",
+      "title": "Who makes the world's zips?",
+      "who": "YKK and its rivals",
+      "where": "Worldwide",
+      "country": "Worldwide",
+      "text": "You will often read that YKK makes half the world's zips. The numbers depend on how you count. In 2012 Slate said YKK made ‘roughly half’, more than 7 billion zips a year. A 2019 report put its share at about 40 percent by value but only about 20 percent by number, because cheaper zips from China, led by SBS, sell in huge volumes.",
+      "why": "The honest answer is that YKK leads on value and quality, while China leads on sheer numbers.",
+      "box": "anatomy",
+      "sources": [
+        38,
+        39,
+        40,
+        23
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Patent for a sliding clothes fastening",
+      "value": "1851",
+      "who": "Elias Howe, USA (never sold)"
+    },
+    {
+      "label": "Fastener closed by a slider, shown in public",
+      "value": "1893",
+      "who": "Whitcomb Judson, USA"
+    },
+    {
+      "label": "Modern zip with interlocking scoop teeth",
+      "value": "1913",
+      "who": "Gideon Sundback, USA (born in Sweden)"
+    },
+    {
+      "label": "The word ‘zipper’",
+      "value": "1923",
+      "who": "B.F. Goodrich, USA"
+    },
+    {
+      "label": "Jeans with a zip fly",
+      "value": "1926",
+      "who": "Lee 101Z, USA (according to Lee)"
+    },
+    {
+      "label": "Coil zip",
+      "value": "1940",
+      "who": "Attributed to Alden W. Hanson, USA"
+    },
+    {
+      "label": "Hook-and-loop fastener patent",
+      "value": "1955",
+      "who": "George de Mestral, Switzerland"
+    }
+  ],
+  "people": [
+    {
+      "name": "Elias Howe",
+      "life": "1819 – 1867",
+      "role": "Inventor",
+      "from": "USA",
+      "note": "The sewing machine pioneer who patented a sliding garment fastening in 1851 and never sold it."
+    },
+    {
+      "name": "Whitcomb L. Judson",
+      "life": "1843 – 1909",
+      "role": "Inventor and salesman",
+      "from": "USA",
+      "note": "Patented the clasp locker in 1893 and died before the zip became a success."
+    },
+    {
+      "name": "Lewis Walker",
+      "life": "died c. 1937–38",
+      "role": "Lawyer and businessman",
+      "from": "USA",
+      "note": "Backed Judson's fastener for decades and built the Hookless Fastener Company in Meadville."
+    },
+    {
+      "name": "Gideon Sundback",
+      "life": "1880 – 1954",
+      "role": "Engineer",
+      "from": "Sweden, USA and Canada",
+      "note": "Designed the modern zip in 1913 and the machine that makes it; entered the US National Inventors Hall of Fame in 2006."
+    },
+    {
+      "name": "Martin Othmar Winterhalter",
+      "life": "c. 1889 – 1961",
+      "role": "Entrepreneur",
+      "from": "Switzerland",
+      "note": "Bought the European rights in 1923 and created the rib-and-groove riri zip."
+    },
+    {
+      "name": "Elsa Schiaparelli",
+      "life": "1890 – 1973",
+      "role": "Fashion designer",
+      "from": "Italy and France",
+      "note": "Made visible, coloured plastic zips a feature of 1930s couture."
+    },
+    {
+      "name": "Tadao Yoshida",
+      "life": "1908 – 1993",
+      "role": "Founder of YKK",
+      "from": "Japan",
+      "note": "Started with a small Tokyo shop in 1934 and ran it by his ‘Cycle of Goodness’: no one prospers without helping others."
+    },
+    {
+      "name": "George de Mestral",
+      "life": "1907 – 1990",
+      "role": "Engineer",
+      "from": "Switzerland",
+      "note": "Copied the hooks on burrs to invent Velcro, the zip's best-known rival."
+    }
+  ],
+  "series": [
+    {
+      "id": "sales",
+      "title": "Zips sold each year by the company that invented them",
+      "unit": "fasteners a year",
+      "log": true,
+      "after": "name",
+      "caption": "Hookless Fastener (renamed Talon in 1937) went from thousands of fasteners a year to hundreds of millions in 45 years. Figures are rounded and come from different sources.",
+      "points": [
+        {
+          "year": 1917,
+          "value": 24000,
+          "label": "24,000 sold, almost all for sailors' money belts (JSTOR Daily, after Robert Friedel)"
+        },
+        {
+          "year": 1934,
+          "value": 60000000,
+          "label": "More than 60 million (JSTOR Daily; Encyclopedia.com)"
+        },
+        {
+          "year": 1962,
+          "value": 500000000,
+          "label": "Talon sales of about 500 million units (Wikipedia, Talon Zipper)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "‘Zipper’ was meant to be the name of a rubber boot, not of the fastener on it.",
+    "In 1919, tobacco pouches used about 70 percent of all the zips the Hookless Fastener Company made.",
+    "The brand name riri comes from two German words: Rille (groove) and Rippe (rib).",
+    "Sundback's design packed ten or eleven teeth into every inch, where earlier fasteners had about four.",
+    "The Apollo moon suit had two zips, one inside the other: rubber teeth to hold the air in, metal teeth to hold the suit together.",
+    "YKK makes almost everything itself: it smelts its own brass, spins its own thread and even builds its own zip-making machines."
+  ],
+  "sources": [
+    {
+      "title": "Zipper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zipper"
+    },
+    {
+      "title": "US Patent 8,540: Improvement in fastenings for garments (Elias Howe Jr., 1851)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US8540A/en"
+    },
+    {
+      "title": "Whitcomb L. Judson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Whitcomb_L._Judson"
+    },
+    {
+      "title": "US Patent 504,038: Clasp locker or unlocker for shoes (W. L. Judson, 1893)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US504038A/en"
+    },
+    {
+      "title": "Whitcomb Judson",
+      "publisher": "Lemelson-MIT Program",
+      "url": "https://lemelson.mit.edu/resources/whitcomb-judson"
+    },
+    {
+      "title": "Zipper",
+      "publisher": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/history/culture-magazines/zipper"
+    },
+    {
+      "title": "Gideon Sundback",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gideon_Sundback"
+    },
+    {
+      "title": "US Patent 1,219,881: Separable fastener (G. Sundback, 1917)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US1219881A/en"
+    },
+    {
+      "title": "US Patent 1,060,378: Separable fastener (G. Sundback, 1913)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US1060378A/en"
+    },
+    {
+      "title": "How WWI Made the Zipper a Success",
+      "publisher": "JSTOR Daily",
+      "url": "https://daily.jstor.org/how-wwi-made-the-zipper-a-success/"
+    },
+    {
+      "title": "Talon Zipper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Talon_Zipper"
+    },
+    {
+      "title": "A Brief History of the Talon Zipper Company",
+      "publisher": "Hagen History Center",
+      "url": "https://www.hagenhistory.org/blog/a-brief-history-of-the-talon-zipper-company"
+    },
+    {
+      "title": "Gap-osis: E. S. Turner reviews ‘Zipper: An Exploration in Novelty’ by Robert Friedel",
+      "publisher": "London Review of Books",
+      "url": "https://www.lrb.co.uk/v17/n07/es-turner/gap-osis"
+    },
+    {
+      "title": "Zip Fasteners",
+      "publisher": "Lewis Leathers",
+      "url": "https://www.lewisleathers.com/blogs/blog/zip-fasteners"
+    },
+    {
+      "title": "Lightning Fasteners",
+      "publisher": "Grace's Guide to British Industrial History",
+      "url": "https://www.gracesguide.co.uk/Lightning_Fasteners"
+    },
+    {
+      "title": "Hermès",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Herm%C3%A8s"
+    },
+    {
+      "title": "Google honors Gideon Sundback: Father of the zipper",
+      "publisher": "The Christian Science Monitor",
+      "url": "https://www.csmonitor.com/Technology/Pioneers/2012/0424/Google-honors-Gideon-Sundback-Father-of-the-zipper"
+    },
+    {
+      "title": "Riri: a zip fastener conquers the world",
+      "publisher": "University of Wuppertal",
+      "url": "https://www.uni-wuppertal.de/en/transfer/science-communication/transfer-stories/2025/prof-dr-christine-volkmann/"
+    },
+    {
+      "title": "Swiss firm has the future all zipped up",
+      "publisher": "SWI swissinfo.ch",
+      "url": "https://swissinfo.ch/eng/swiss-firm-has-the-future-all-zipped-up/3727960"
+    },
+    {
+      "title": "Zipper",
+      "publisher": "Canadian Innovation Space",
+      "url": "https://canadianinnovationspace.ca/zipper/"
+    },
+    {
+      "title": "Otto Frederick Gideon Sundback: inventor of the first modern zipper",
+      "publisher": "Ingenium, Canada's Museums of Science and Innovation",
+      "url": "https://ingeniumcanada.org/channel/innovation/otto-frederick-gideon-sundback-inventor-first-modern-zipper"
+    },
+    {
+      "title": "In the Beginning Was Lee 101",
+      "publisher": "Lee",
+      "url": "https://www.lee.com/en-ca/lee-101.html"
+    },
+    {
+      "title": "The History Behind Button Your Fly",
+      "publisher": "Levi Strauss & Co.",
+      "url": "https://www.levi.com/US/en_US/blog/article/the-history-behind-button-your-fly"
+    },
+    {
+      "title": "YKK",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/YKK"
+    },
+    {
+      "title": "History of YKK Group",
+      "publisher": "YKK Americas",
+      "url": "https://ykkamericas.com/our-history"
+    },
+    {
+      "title": "What kind of history has YKK, the king of zippers, followed?",
+      "publisher": "GIGAZINE",
+      "url": "https://gigazine.net/gsc_news/en/20230812-ykk-zipper20230812-ykk-zipper"
+    },
+    {
+      "title": "‘Pagan’ evening suit, Elsa Schiaparelli, 1938",
+      "publisher": "Victoria and Albert Museum",
+      "url": "https://collections.vam.ac.uk/item/O75194/pagan-evening-suit-elsa-schiaparelli"
+    },
+    {
+      "title": "Coil zipper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coil_zipper"
+    },
+    {
+      "title": "US Patent 2,385,816: Sealing closure (C. P. Krupp, B. F. Goodrich, 1945)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US2385816A/en"
+    },
+    {
+      "title": "Apollo/Skylab spacesuit",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apollo/Skylab_spacesuit"
+    },
+    {
+      "title": "Apollo suit pressure-sealing zippers (forum discussion)",
+      "publisher": "collectSPACE",
+      "url": "https://www.collectspace.com/ubb/Forum14/HTML/001299.html"
+    },
+    {
+      "title": "Dry suit",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dry_suit"
+    },
+    {
+      "title": "Velcro",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Velcro"
+    },
+    {
+      "title": "Ziploc",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ziploc"
+    },
+    {
+      "title": "YKK establishes strong business in India",
+      "publisher": "The Indian Textile Magazine",
+      "url": "https://www.indiantextilemagazine.in/ykk-establishes-strong-business-in-india/"
+    },
+    {
+      "title": "YKK to build third manufacturing plant in India",
+      "publisher": "FashionUnited",
+      "url": "https://fashionunited.in/news/business/ykk-to-build-third-manufacturing-plant-in-india/2026060554781"
+    },
+    {
+      "title": "The best market in the world (Qiaotou, 2005)",
+      "publisher": "Salon",
+      "url": "https://salon.com/2005/05/25/china_boom_2"
+    },
+    {
+      "title": "Qiaotou, Yongjia County",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Qiaotou,_Yongjia_County"
+    },
+    {
+      "title": "YKK zippers: why so many designers use them",
+      "publisher": "Slate",
+      "url": "https://slate.com/business/2012/04/ykk-zippers-why-so-many-designers-use-them.html"
+    },
+    {
+      "title": "The Humble Zipper is at the Center of an Almost $20 Billion Global Battle",
+      "publisher": "The Fashion Law",
+      "url": "https://www.thefashionlaw.com/the-humble-zipper-is-at-the-center-of-an-almost-20-billion-global-battle/"
+    },
+    {
+      "title": "One zip to rule them all: After years of dominance, YKK now faces competition",
+      "publisher": "The Hustle",
+      "url": "https://thehustle.co/news/ykk-japan-china-zippers"
+    }
+  ]
+}
